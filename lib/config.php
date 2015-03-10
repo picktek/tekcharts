@@ -6,6 +6,6 @@
  *
  */
 
-    define('TC_SYSTEM_PATH', drupal_get_path('module', 'tekcharts4').'/src');
-    //define('TC_SYSTEM_PATH', 'C:\\Code.Workspace\\TekCharts\\src');
+    //define('TC_SYSTEM_PATH', drupal_get_path('module', 'tekcharts4').'/src');
+    define('TC_SYSTEM_PATH', '/Users/maka/Documents/tekcharts');
 ?>

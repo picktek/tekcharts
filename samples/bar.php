@@ -1,6 +1,6 @@
 <?php
 
-  require_once (dirname(__FILE__) . '/src/tekCharts.php');
+  require_once (dirname(__FILE__) . '/../lib/tekCharts.php');
 
   function req_def ($varname, $defval) {
     return empty($_GET[$varname]) ? $defval : $_GET[$varname];

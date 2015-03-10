@@ -1,0 +1,6 @@
+/*
+*
+*  Copyright (C) Picktek. Ltd. http://www.picktek.com
+*  Distributed under GNU GPL license v.2
+*
+*/
